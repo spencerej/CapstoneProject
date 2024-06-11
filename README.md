@@ -6,5 +6,7 @@ In this project, I take on the role of Data Scientist for a fictional start-up S
 1. <a href="spacex-data-collection-api.ipynb">SpaceX API Data Collection</a><br>
 2. <a href="webscraping.ipynb">Webscraping data from Wikipedia</a><br>
 3. <a href="Week1 labs-jupyter-spacex-Data wrangling.ipynb">Exploratory Data Analysis and Data Wrangling</a><br>
-4. <a href="eda-sql-coursera_sqllite.ipynb">More EDA with SQL</a>
-5. <a href="Week2 - edadataviz.ipynb">Complete EDA and Provide Visualization</a>
+4. <a href="eda-sql-coursera_sqllite.ipynb">More EDA with SQL</a><br>
+5. <a href="Week2 - edadataviz.ipynb">Complete EDA and Provide Visualization</a><br>
+6. <a href="week3-launch_site_location.jupyterlite.ipynb">Interactive visual analytics utilizing Folium</a><br>
+7. <a href="spacex_app/">Build Interactive Dashboard with Plotly Dash</a><br>
