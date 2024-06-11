@@ -6,3 +6,4 @@ In this project, I take on the role of Data Scientist for a fictional start-up S
 1. <a href="spacex-data-collection-api.ipynb">SpaceX API Data Collection</a><br>
 2. <a href="webscraping.ipynb">Webscraping data from Wikipedia</a><br>
 3. <a href="Week1 labs-jupyter-spacex-Data wrangling.ipynb">Exploratory Data Analysis and Data Wrangling</a><br>
+4. <a href="eda-sql-coursera_sqllite.ipynb">Complete EDA with SQL</a>
