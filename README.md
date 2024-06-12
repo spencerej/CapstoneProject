@@ -10,5 +10,5 @@ In this project, I take on the role of Data Scientist for a fictional start-up S
 5. <a href="Week2 - edadataviz.ipynb">Complete EDA and Provide Visualization</a><br>
 6. <a href="week3-launch_site_location.jupyterlite.ipynb">Interactive visual analytics utilizing Folium</a><br>
 7. <a href="spacex_app/">Build Interactive Dashboard with Plotly Dash</a><br>
-8. <a href="SpaceX_Machine_Learning_Prediction_Part5.jupyterlite.ipynb">Create Machine Learning Model for Prediction</a><br>
+8. <a href="SpaceX_Machine_Learning_Prediction_Part_5.jupyterlite.ipynb">Create Machine Learning Model for Prediction</a><br>
 
